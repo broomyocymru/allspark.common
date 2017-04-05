@@ -1,0 +1,3 @@
+---
+- name: Write Demo file
+  shell: echo {{demo_text}} > ~/test.txt
